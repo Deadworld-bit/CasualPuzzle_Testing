@@ -1,4 +1,4 @@
-[![CasualPuzzle_Testing | © 2025 by Deadworld ]](https://github.com/RobloxGL/Phan-Thanh-Duc.git)
+[![CasualPuzzle_Testing | © 2025 by Deadworld ]](https://github.com/Deadworld-bit/CasualPuzzle_Testing.git)
 # Welcome to CasualPuzzle_Testing repository
 
 ## Overview
