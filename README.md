@@ -21,6 +21,7 @@ In this project, the player guides a Main Character (MC) along a winding path on
 * Progression: Each level increases in difficulty.
 
 ## Level Design
+![Design](https://github.com/Deadworld-bit/CasualPuzzle_Testing/blob/main/Pics/GridSystemDesign.drawio.png)<br><br>
 ### Grid Map Generation:
 * Grid Size (W x H): Can be configure.
   
@@ -36,4 +37,11 @@ In this project, the player guides a Main Character (MC) along a winding path on
 * Environment cells: Non-path cells populated with decorative environment objects.
 * Enemies: Spawn off-path, patrol across or alongside paths.
 * Number of enemies increase base on level.
+
+## Screenshots: 
+![Project First ScreenShot](https://github.com/Deadworld-bit/CasualPuzzle_Testing/blob/main/Pics/Screenshot%202025-05-07%20143834.png)<br><br>
+![Project Second ScreenShot](https://github.com/Deadworld-bit/CasualPuzzle_Testing/blob/main/Pics/Screenshot%202025-05-07%20143859.png)<br><br>  
+![Project Third ScreenShot](https://github.com/Deadworld-bit/CasualPuzzle_Testing/blob/main/Pics/Screenshot%202025-05-07%20143916.png)<br><br>  
+
+##### © Deadworld 2025
 
